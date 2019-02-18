@@ -80,9 +80,9 @@ Multiple different websites were used including:
 [MDN web docs](https://developer.mozilla.org/ "Mozilla Developer Network web docs")
 
 ## Project Requirements Met
-HTML and CSS made from scratch
-Used both CSS grid and FlexBox to create layouts
-No plug-in content used
-Site is fully accessible without images and via mobile devices
+HTML and CSS made from scratch.
+Used both CSS grid and FlexBox to create layouts.
+No plug-in content used.
+Site is fully accessible without images and via mobile devices.
 
 # Project

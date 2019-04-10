@@ -8,7 +8,7 @@ The LangIdentiLator is a web front-end that does language detection, translation
 =================
 
 <!--ts-->
-   * [Project 2 - Web Service Application (Language Identifier and Translator - LangIdentiLator)](#project-2-web-service-application)
+   * [Project 2 - Web Service Application](#project-2-web-service-application)
        * [Overview](#overview)
    * [Table of Contents](#table-of-contents)
    * [Proposal](#proposal)

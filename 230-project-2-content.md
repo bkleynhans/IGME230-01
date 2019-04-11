@@ -25,9 +25,10 @@ The LangIdentiLator is a web front-end that does language detection, translation
        * [Project Requirements Met](#project-requirements-met)
            * [Functionality](#functionality)
            * [Design and Interaction](#design-and-interaction)
-           * [HTML/CSS/Media](#html-css-media)
+           * [HTML CSS Media](#html-css-media)
            * [Code](#code)
-           * [Above and Beyond](#above-and-beyond)   
+           * [Above and Beyond](#above-and-beyond)
+   * [Grade](#grade)
 <!--te-->
 
 # Proposal
@@ -84,7 +85,7 @@ Standard interface conventions followed.
 The state of the page is always obvious.
 Does not throw any errors (everything is handled internally).
 
-### HTML/CSS/Media
+### HTML CSS Media
 There are no HTML or CSS validation errors.
 All static CSS is in an external .css file in the css directory.
 All tags are used appropriately however there are some limitations due to the use of the skeleton framework which requires all content to be in divs.
@@ -97,3 +98,6 @@ All code follows coding standards.
 ### Above and beyond
 I use two APIs to get additional information to provide the user.
 There are multiple controls on the page (text boxes, text areas, buttons, filtered and non-filtered combo boxes, sort buttons, linked pages, hyperlinks and page animations)
+
+# Grade
+I believe I deserve full credit (and extra credit if available) for this project.  I spent more than 40 hours working on this until 2am in the morning for multiple days.

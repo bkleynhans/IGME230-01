@@ -1,4 +1,4 @@
-# Project 2 - Web Service Application (Language Identifier and Translator - LangIdentiLator)
+# Project 3 - Sprite-based Game or Experience (Roof Breaker - The Breakout Adaptation Using Physics)
 ## Summary
 The LangIdentiLator is a web front-end that does language detection, translation and provides general information about the language you are translating to.  You enter a string in the indicated field, after which it provides you with the flag of the country that has the most people speaking the language, and it provides you with the name of the country.  It also provides a list of all the countries in the world that use this language on the bottom of the page.  You can then go and select a language to translate your text to from the dropdown list.  The translation is performed and you are provided with the translation, the flag of the destination language's country and some statistics about the country.
 

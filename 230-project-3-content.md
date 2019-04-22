@@ -22,7 +22,7 @@ This new spin on an old classic should bring multiple hours of entertainment.
 		* [Loading Data](#loading-data)
 		* [Gameplay](#gameplay)
 		* [Difficulties](#difficulties)
-* [About The Developer](#about-the-developer)
+	* [About The Developer](#about-the-developer)
 * [Documentation](#documentation)       
 	* [Resources Used](#resources-used)
 	* [Project Requirements Met](#project-requirements-met)
@@ -31,7 +31,7 @@ This new spin on an old classic should bring multiple hours of entertainment.
 		* [Media](#media)
 		* [HTML CSS](#html-css)
 		* [Code Conventions](#code-conventions)
-	* [Grade](#grade)
+* [Grade](#grade)
 <!--te-->
 
 # Proposal
